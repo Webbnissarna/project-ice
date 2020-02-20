@@ -2,12 +2,12 @@
 
 Project uses 
 
-- react v 16.12.0
-- react-jss 10.0.4
+- react version 16.12.0
+- react-jss version 10.0.4
 
 for content and 
 
-- cypress
+- cypress version 4.0.2
 
 for testing.
 
